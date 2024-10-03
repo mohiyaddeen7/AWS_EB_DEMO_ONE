@@ -29,5 +29,3 @@ jobs:
          version_label: ${{github.sha}}
          region: ap-south-1
          deployment_package: app-build.zip
-          
-  
